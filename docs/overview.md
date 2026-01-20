@@ -65,7 +65,7 @@ Select a simple and shared methodological basis, adapted to the targeted type of
 Anchor innovation within existing governance structures and create concrete feasibility conditions, particularly in terms of time and budget.
 
 ### Navigate
-Define a clear direction, prioritise focus areas and reduce silos, in line with user needs and internal capacities.
+Define a clear direction, prioritise focus areas and reduce silos, ensuring alignment between user needs, public value objectives and internal capacities.
 
 ### Iterate
 Test with real users, adjust based on concrete feedback, and decide on controlled deployment.
@@ -74,7 +74,7 @@ Test with real users, adjust based on concrete feedback, and decide on controlle
 Measure impact and learning to support decision-making, make results visible and capitalise on experience.
 
 ### Adapt
-Sustain what works by anchoring it in the organisation, or explicitly stop what does not create value.
+Sustain what works by anchoring it in the organisation, or explicitly stop what does not create value. Document lessons learned to build organizational intelligence and legitimize future experimentation.
 
 ## An iterative model
 
