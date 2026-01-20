@@ -6,7 +6,7 @@ The objective is not to produce isolated innovations,
 but to progressively increase an organisation’s ability to innovate in a sustainable way.
 
 The model combines:
-- structure without bureaucracy,
+- using existing structures,
 - iteration without chaos,
 - consolidation as a prerequisite for innovation.
 
