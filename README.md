@@ -22,7 +22,7 @@ Each cycle strengthens organisational capabilities and prepares the ground for t
 The full documentation is available in the `/docs` folder and published via GitHub Pages.
 
 Start here:
-- [Model overview](docs/model/overview.md)
+- [Model overview](docs/overview.md)
 - [Definition of innovation in public administrations](docs/innovation-definition.md)
 - [The three circles](docs/model/three-circles.md)
 - [The MINIMA steps](docs/model/steps)
