@@ -37,34 +37,40 @@ main {
   padding-bottom: 2rem;
 }
 
+/* Headings */
 h1 {
   letter-spacing: -0.01em;
   margin-bottom: 0.75rem;
 }
 
+/* Intro text: readable but not boxed */
 .lede {
   font-size: 1.05rem;
   color: var(--pico-muted-color);
-  max-width: 78ch;
+  max-width: 72ch;
 }
 
+/* Core principle separator */
 .principle {
   margin-top: 1rem;
   margin-bottom: 1.5rem;
   padding: 0.75rem 0;
   border-top: 1px solid var(--pico-border-color);
   border-bottom: 1px solid var(--pico-border-color);
-  max-width: 78ch;
+  max-width: 72ch;
 }
 
+/* Sections */
 section {
   margin-top: 2rem;
 }
 
+/* Remove boxed layout */
 .block {
-  max-width: 84ch;
+  max-width: none;
 }
 
+/* Steps layout */
 .steps {
   margin-top: 1rem;
 }
@@ -75,6 +81,7 @@ section {
   border-top: 1px solid var(--pico-border-color);
 }
 
+/* Footer */
 footer {
   border-top: 1px solid var(--pico-border-color);
   padding-top: 1.25rem;
@@ -87,6 +94,7 @@ footer small {
   line-height: 1.6;
 }
 
+/* Links */
 a {
   color: inherit;
   text-decoration: underline;
