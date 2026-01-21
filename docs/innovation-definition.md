@@ -9,10 +9,15 @@ Innovation in public administrations:
 - must respect legal and democratic principles,
 - aims at improving public value, not competitive advantage.
 
-Innovation can be:
-- incremental (improving what exists),
-- adaptive (responding to change),
-- transformative (changing structures or models).
+## Forms of innovation
 
-MINIMA focuses on **creating the conditions for innovation**:
-by consolidating, simplifying and stabilising existing systems and practices before introducing change.
+Innovation can take different forms, depending on context and ambition:
+
+- **Incremental**, by improving existing services or processes;
+- **Adaptive**, by adjusting practices in response to changing needs, expectations or constraints;
+- **Transformative**, by fundamentally rethinking structures, roles or operating models.
+
+## The role of MINIMA
+
+MINIMA focuses on **creating the conditions for sustainable innovation**.  
+It prioritises the consolidation, simplification and stabilisation of existing systems and practices, in order to **reduce complexity, manage risk and build capacity** before introducing more significant change.
