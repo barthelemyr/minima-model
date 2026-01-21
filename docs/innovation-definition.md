@@ -2,7 +2,7 @@
 
 In the context of public administrations, innovation is:
 
-> The intentional effort to enhance public value creation by implementing and learning from new or improved services, processes, organisational practices, policies or technologies, within existing legal, financial, institutional and ethical constraints.
+> The intentional effort to enhance public value creation by implementing and learning from new or improved services, processes, organisational practices, policies, tools or technologies, within existing legal, financial, institutional and ethical constraints.
 
 Innovation in public administrations:
 - is not limited to technology,
